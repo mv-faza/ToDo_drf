@@ -10,8 +10,11 @@ This is simple ToDO app, made with help of DRF for constucting API and for DB I 
     ![image](https://user-images.githubusercontent.com/80515538/173546788-59f11e71-11ae-47ec-b6f0-df0eb69c33bf.png)
 
     - So go now to this url  `http://127.0.0.1:8000/admin/`  where you will get admin site
-    - For Username: user
-    - For pass: 1
+
+    ![image](https://user-images.githubusercontent.com/80515538/173560280-19fa2ae5-1acc-4481-9149-a257b9430b43.png)
+
+    - For Username: `user`
+    - For pass: `1`
 4) Now, go to the task
 
     ![image](https://user-images.githubusercontent.com/80515538/173548045-9184a84b-b93c-40e5-b711-6b262db06e75.png)
