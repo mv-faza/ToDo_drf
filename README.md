@@ -25,4 +25,5 @@ This is simple ToDO app, made with help of DRF for constucting API and for DB I 
     ![image](https://user-images.githubusercontent.com/80515538/173549956-7a9e879b-b69a-40fe-b697-826584cfe6c6.png)
     Where you will find all path's for CRUD metod.
     Just for example: got to " http://127.0.0.1:8000/api/tasks/ "
+    ![image](https://user-images.githubusercontent.com/80515538/173550906-5472f083-1bdd-41c0-9d7b-7e9ad18ce0c3.png)
     And you will get all data entered by you.
